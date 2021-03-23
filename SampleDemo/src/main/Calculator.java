@@ -7,6 +7,7 @@ public class Calculator {
 		System.out.println("Hello World");
 		System.out.println("This line is added");
 		System.out.println("This line has been added from the server");
+		System.out.println("This line was added in Branch 1");
 		
 
 	}
