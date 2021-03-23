@@ -13,8 +13,12 @@ public class Calculator {
 		
 
 		System.out.println("This line is added after making changes in Master branch locally");
+		
 
-
+	}
+	
+	public static void cube(int l) {
+		System.out.println(l*l*l);
 	}
 
 }
