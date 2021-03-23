@@ -11,5 +11,8 @@ public class Calculator {
 		System.out.println("This line is added after making changes in Master branch locally");
 
 	}
+	public static void cuboid(int l ,int b, int h) {
+		System.out.println(l*b*h);
+	}
 
 }
