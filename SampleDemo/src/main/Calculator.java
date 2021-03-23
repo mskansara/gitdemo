@@ -39,5 +39,9 @@ public class Calculator {
 	public static void newCode() {
 		System.out.println("New code in master");
 	}
+	
+	public static void master1fun() {
+		System.out.println("masterfun1");
+	}
 
 }
