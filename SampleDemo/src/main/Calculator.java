@@ -35,5 +35,9 @@ public class Calculator {
 	public static void mul(int a, int b) {
 		System.out.println(a*b);
 	}
+	
+	public static void newCode() {
+		System.out.println("New code in master");
+	}
 
 }
