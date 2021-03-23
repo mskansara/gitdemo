@@ -20,5 +20,8 @@ public class Calculator {
 	public static void cube(int l) {
 		System.out.println(l*l*l);
 	}
+	public static void cuboid(int l ,int b, int h) {
+		System.out.println(l*b*h);
+	}
 
 }
