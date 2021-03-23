@@ -40,8 +40,13 @@ public class Calculator {
 		System.out.println("New code in master");
 	}
 	
+
+	public static void br1fun() {
+		System.out.println("Br1Fun");
+  }
 	public static void master1fun() {
 		System.out.println("masterfun1");
+
 	}
 
 }
