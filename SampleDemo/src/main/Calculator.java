@@ -13,6 +13,7 @@ public class Calculator {
 		
 
 		System.out.println("This line is added after making changes in Master branch locally");
+		System.out.println("Checking for slack message");
 		
 
 	}
